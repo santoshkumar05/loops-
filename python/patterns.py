@@ -35,4 +35,4 @@ def pattern6(n):
             print(i,end=" ")
         print()
 
-pattern1(6)
+pattern3(5)
